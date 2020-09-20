@@ -1,11 +1,19 @@
 {
 	"folders": [
 		{
+			"path": ".",
+		},
+		{
 			"path": "Deno"
 		},
 		{
 			"path": "NodeJS"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.exclude": {
+			"Deno/**": true,
+			"NodeJS/**": true,
+		}
+	}
 }
