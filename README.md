@@ -1,9 +1,9 @@
-# codefest_deno
+# Codefest Deno
 
-Codefest for DenoJS
+Codefest for Deno
 
 ## Summary
-Introduction to DenoJS comparing it to NodeJS
+Simple examples for comparing Deno with NodeJS
 
 ## Index
 - [Deno Example](Deno)
